@@ -1,7 +1,7 @@
 {
   "name": "@sgratzl/mobx-preact-lite",
   "description": "Wrapper around mobx-react-lite for proper Preact typings",
-  "version": "2.0.6",
+  "version": "2.0.7",
   "author": {
     "name": "Samuel Gratzl",
     "email": "samu@sgratzl.com",
