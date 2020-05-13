@@ -31,6 +31,6 @@
   },
   "scripts": {
     "test": "tsc -p tsconfig.json",
-    "postinstall": "cp node_modules/mobx-react-lite/dist/*.d.ts dist/ && cp patches/* dist*"
+    "prepare": "cp node_modules/mobx-react-lite/dist/*.d.ts dist/ && cp patches/* dist*"
   }
 }
