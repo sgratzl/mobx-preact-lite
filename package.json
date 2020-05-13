@@ -26,6 +26,10 @@
   },
   "devDependencies": {
     "mobx": "^5.15.4",
-    "preact": "^10"
+    "preact": "^10",
+    "typescript": "^3.9.2"
+  },
+  "scripts": {
+    "test": "tsc -p tsconfig.json"
   }
 }

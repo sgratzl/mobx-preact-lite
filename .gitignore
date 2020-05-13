@@ -12,3 +12,4 @@ node_modules
 
 *.tgz
 .vscode
+/tests/*.js

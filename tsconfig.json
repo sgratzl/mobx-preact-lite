@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "jsx": "react",
+    "noEmit": true,
+    "jsxFactory": "h",
+    "lib": [
+      "DOM", "ES2020"
+    ]
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}
