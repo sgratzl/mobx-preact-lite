@@ -1,0 +1,31 @@
+{
+  "name": "@sgratzl/mobx-preact-lite",
+  "description": "Wrapper around mobx-react-lite for proper Preact typings",
+  "version": "2.0.6",
+  "author": {
+    "name": "Samuel Gratzl",
+    "email": "samu@sgratzl.com",
+    "url": "https://wwww.sgratzl.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sgratzl/mobx-preact-lite.git"
+  },
+  "main": "dist/index.js",
+  "module": "dist/index.esm.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "peerDependencies": {
+    "preact": "^10"
+  },
+  "dependencies": {
+    "mobx-react-lite": "~2.0.6"
+  },
+  "devDependencies": {
+    "mobx": "^5.15.4",
+    "preact": "^10"
+  }
+}

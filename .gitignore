@@ -1,0 +1,14 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+coverage
+node_modules
+.npm
+
+# Build files
+/build
+
+*.tgz
+.vscode
